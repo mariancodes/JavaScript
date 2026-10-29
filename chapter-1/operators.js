@@ -61,3 +61,4 @@ console.log("-----------")
     console.log(abuAge != marieAge) // true
     console.log(abuAge != fodayAge) //fa0lse
     console.log(abuAge !== fodayAge)//true
+    
